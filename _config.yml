@@ -24,7 +24,7 @@ author:
   avatar           : "1.png"
   name             : "Bosen Zhao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "--"
   location         : "Earth"
   employer         : "Southeast University"
   uri              : "https://zhaobosen.github.io" # URL
